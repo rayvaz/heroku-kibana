@@ -18,7 +18,7 @@
     "DOWNLOAD_URL": {
       "description": "If you want to try using a different version of Kibana, you can provide an alternate URL here.",
       "value": "https://artifacts.elastic.co/downloads/kibana/kibana-5.3.2-linux-x86_64.tar.gz",
-      "required": false
+      "required": true
     }
   },
   "addons": [ "bonsai:staging" ],
