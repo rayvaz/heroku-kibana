@@ -19,7 +19,7 @@
   "addons": [ "bonsai:staging" ],
   "buildpacks": [
     {
-      "url": "https://github.com/omc/heroku-buildpack-kibana"
+      "url": "https://github.com/rayvaz/heroku-buildpack-kibana"
     }
   ]
 }
